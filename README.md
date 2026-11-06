@@ -55,6 +55,20 @@ A responsive Customer Relationship Management (CRM) dashboard built using React.
 
 Customer information is stored in the browser's LocalStorage. Data remains available after refreshing the page in the same browser.
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Customer
+![Add Customer](screenshots/add-customer.png)
+
+### Customer Table
+![Customer Table](screenshots/customer-table.png)
+
+### Mobile Responsive View
+![Mobile View](screenshots/mobile-view.png)
+
 ## Author
 
 Varsha K A
